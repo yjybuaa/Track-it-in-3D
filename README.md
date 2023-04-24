@@ -4,13 +4,30 @@ This is the official implementation of __Towards Generic 3D Tracking in RGBD Vid
 ![image](https://github.com/yjybuaa/Track-it-in-3D/blob/main/3doverview.png)
 
 ## Download the Dataset
-Training set: Uploading...
+Training set: 
 
 Test set: 
-[[test_set_01]](https://pan.baidu.com/s/1m1aU1ryWS8gyI4TxmiFA0Q) (pw: jaiq)
-[[test_set_02]](https://pan.baidu.com/s/1yMnOCjHnvfyk-i26SmcKcg) (pw: j223)
 
 
 ## Evaluation Protocols
 
 ## Test the Baseline
+
+## Citation
+We appreciate your support of our work!
+```bibtex
+@inproceedings{trackitin3d,
+  author       = {Jinyu Yang and
+                  Zhongqun Zhang and
+                  Zhe Li and
+                  Hyung Jin Chang and
+                  Ales Leonardis and
+                  Feng Zheng},
+  title        = {Towards Generic 3D Tracking in {RGBD} Videos: Benchmark and Baseline},
+  booktitle    = {{ECCV} {(22)}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {13682},
+  pages        = {112--128},
+  publisher    = {Springer},
+  year         = {2022}
+}
