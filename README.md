@@ -4,14 +4,25 @@ This is the official implementation of __Towards Generic 3D Tracking in RGBD Vid
 ![image](https://github.com/yjybuaa/Track-it-in-3D/blob/main/3doverview.png)
 
 ## Download the Dataset
-Training set: 
+[Training set]
 
-Test set: 
+[Test set](https://pan.baidu.com/s/1rd045PJ-N3TYlS82L7sjZQ)(Code: fsoo)
 
 
 ## Evaluation Protocols
 
+
+
 ## Test the Baseline
+
+```shell
+# Clone the repository:
+git clone https://github.com/yjybuaa/Track-it-in-3D.git
+
+# Install dependencies: 
+pip install -r requirements.txt
+
+```
 
 ## Citation
 We appreciate your support of our work!
