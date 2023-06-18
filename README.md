@@ -4,7 +4,9 @@ This is the official implementation of __Towards Generic 3D Tracking in RGBD Vid
 ![image](https://github.com/yjybuaa/Track-it-in-3D/blob/main/3doverview.png)
 
 ## Download the Dataset
-[Training set]
+[Training set - Part 1](https://pan.baidu.com/s/1i1RM1bbwaY0oL31t5jPz_w)(Code: 9qqr)
+[Training set - Part 2] Uploading
+[Training set - Part 3] Uploading
 
 [Test set](https://pan.baidu.com/s/1rd045PJ-N3TYlS82L7sjZQ)(Code: fsoo)
 
